@@ -1,4 +1,4 @@
-package git_day01_Practice;
+package git_practice1;
 
 public class HelloWorld {
 
