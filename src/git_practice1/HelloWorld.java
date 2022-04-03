@@ -4,9 +4,8 @@ public class HelloWorld {
 
 //Doing some work here (you can type anything you want)
 
-    //Some code
-
-
 //Doing awesome work 2!
+    //awesome work 3 is done and ready to be committed
+    //and ready to be pushed
 
 }
